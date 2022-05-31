@@ -2,8 +2,6 @@
 
 R Shiny application for machine learning prediction of bacterial growth under sub-inhibitory antimicrobial concentrations.  
 
-# Timecourse Morpholgy Data Analysis in ***Pseudomonas aeruginosa***  
-
 ## Table of contents
 1. [Citation](#citation)
 2. [Introduction](#content)
